@@ -1,0 +1,2 @@
+ID = "wsWjoZtO"
+loadstring(game:HttpGet("https://rayzhubb.vercel.app/api/main.lua"))()
